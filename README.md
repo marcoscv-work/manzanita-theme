@@ -1,12 +1,12 @@
 # Manzanita Theme
 
-[What is Liferay?](https://dev.liferay.com/discover/portal) ([Main Liferay web](http://www.liferay.com)) - [What do I need to work with Liferay?](https://dev.liferay.com/discover/deployment) - [What is a Theme for Liferay?](https://dev.liferay.com/participate/liferaypedia/-/wiki/Main/Theme) - [How Create or Modify a Theme?](https://dev.liferay.com/develop/tutorials/-/knowledge_base/6-2/creating-a-theme-project-in-the-plugins-sdk)
+<a href="https://dev.liferay.com/discover/portal" target="_blank">What is Liferay?</a> (<a href="http://www.liferay.com" target="_blank">Main Liferay web</a>) - <a href="https://dev.liferay.com/discover/deployment" target="_blank">What do I need to work with Liferay?</a> - <a href="https://dev.liferay.com/participate/liferaypedia/-/wiki/Main/Theme" target="_blank">What is a Theme for Liferay?</a> - <a href="https://dev.liferay.com/develop/tutorials/-/knowledge_base/6-2/creating-a-theme-project-in-the-plugins-sdk" target="_blank">How Create or Modify a Theme?</a>
 
 Manzanita-theme is totally configurable through its settings, from color palette configuration, to control over principal blocks width. This theme includes Dockbar Vertical in gray tones. You can decide to use this Vertical Dockbar or classic top-line dockbar only changing a theme setting.
 
 Manzanita-theme is totally open source, you can modify, redistribute or why not, contribute to improve it. Only a little advice, the photos which are included are totally free from: unspalsh.com, picjumbo.com and publicdomainarchive.com, please, if you are going to use them, don’t forget to thanks ;)
 
-* It uses [vertical dockbar](https://github.com/marcoscv-work/experimental-liferay-themes#dockbar-vertical-theme) over your _styled liferay theme
+* It uses <a href="https://github.com/marcoscv-work/experimental-liferay-themes#dockbar-vertical-theme" target="_blank">vertical dockbar</a> over your _styled liferay theme
 * You will be able to change dockbar colors easier
 
 Theme settings available:
