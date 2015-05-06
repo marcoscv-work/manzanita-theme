@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <root available-locales="en_US" default-locale="en_US">
-	<dynamic-element dataType="string" indexType="keyword" localizable="true" name="coordinatesMap" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="medium">
+	<dynamic-element dataType="string" indexType="keyword" name="coordinatesMap" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="medium">
 		<meta-data locale="en_US">
 			<entry name="label">
 				<![CDATA[Map Coordinates]]>
@@ -14,9 +14,9 @@
 			</entry>
 		</meta-data>
 	</dynamic-element>
-	<dynamic-element fieldNamespace="ddm" indexType="keyword" localizable="true" name="styleMapOptions" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-separator" width="">
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" name="mapHeight" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
-			<dynamic-element dataType="string" indexType="keyword" localizable="true" name="mapMarginTop" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+	<dynamic-element fieldNamespace="ddm" indexType="keyword" name="styleMapOptions" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-separator" width="">
+		<dynamic-element dataType="string" indexType="keyword" name="mapHeight" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+			<dynamic-element dataType="string" indexType="keyword" name="mapMarginTop" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 				<meta-data locale="en_US">
 					<entry name="label">
 						<![CDATA[Map margin top]]>
@@ -29,7 +29,7 @@
 					</entry>
 				</meta-data>
 			</dynamic-element>
-			<dynamic-element dataType="string" indexType="keyword" localizable="true" name="mapMarginDown" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+			<dynamic-element dataType="string" indexType="keyword" name="mapMarginDown" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 				<meta-data locale="en_US">
 					<entry name="label">
 						<![CDATA[Map margin down]]>
@@ -54,7 +54,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="mapVisibility" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="mapVisibility" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option19562" type="option" value="on">
 				<meta-data locale="en_US">
 					<entry name="label">
@@ -88,7 +88,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="double" indexType="keyword" localizable="true" name="weight" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+		<dynamic-element dataType="double" indexType="keyword" name="weight" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Traze Weight]]>
@@ -101,7 +101,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="double" indexType="keyword" localizable="true" name="saturation" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+		<dynamic-element dataType="double" indexType="keyword" name="saturation" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Saturation]]>
@@ -114,7 +114,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="double" indexType="keyword" localizable="true" name="lightness" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+		<dynamic-element dataType="double" indexType="keyword" name="lightness" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Lightness]]>
@@ -127,7 +127,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="double" indexType="keyword" localizable="true" name="gamma" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+		<dynamic-element dataType="double" indexType="keyword" name="gamma" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Gamma]]>
@@ -155,8 +155,8 @@
 			</entry>
 		</meta-data>
 	</dynamic-element>
-	<dynamic-element fieldNamespace="ddm" indexType="keyword" localizable="true" name="mapOptions" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-separator" width="">
-		<dynamic-element dataType="integer" fieldNamespace="ddm" indexType="keyword" localizable="true" name="mapZoom" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-integer" width="small">
+	<dynamic-element fieldNamespace="ddm" indexType="keyword" name="mapOptions" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-separator" width="">
+		<dynamic-element dataType="integer" fieldNamespace="ddm" indexType="keyword" name="mapZoom" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-integer" width="small">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Map zoom]]>
@@ -169,7 +169,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="scrollwheel" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="scrollwheel" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option32879" type="option" value="true">
 				<meta-data locale="en_US">
 					<entry name="label">
@@ -196,7 +196,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="navigationControl" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="navigationControl" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option33164" type="option" value="true">
 				<meta-data locale="en_US">
 					<entry name="label">
@@ -223,7 +223,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="mapTypeControl" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="mapTypeControl" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option33449" type="option" value="true">
 				<meta-data locale="en_US">
 					<entry name="label">
@@ -250,7 +250,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="scaleControl" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="scaleControl" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option33734" type="option" value="true">
 				<meta-data locale="en_US">
 					<entry name="label">
@@ -277,7 +277,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="draggable" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="draggable" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option34019" type="option" value="true">
 				<meta-data locale="en_US">
 					<entry name="label">
@@ -304,7 +304,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="keyword" localizable="true" multiple="false" name="disableDefaultUI" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+		<dynamic-element dataType="string" indexType="keyword" multiple="false" name="disableDefaultUI" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 			<dynamic-element name="option34304" type="option" value="true">
 				<meta-data locale="en_US">
 					<entry name="label">

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <root available-locales="en_US" default-locale="en_US">
-	<dynamic-element dataType="string" indexType="" localizable="true" multiple="false" name="items-per-file" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+	<dynamic-element dataType="string" indexType="" multiple="false" name="items-per-file" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 		<dynamic-element name="option1" type="option" value="2">
 			<meta-data locale="en_US">
 				<entry name="label">
@@ -56,7 +56,7 @@
 			</entry>
 		</meta-data>
 	</dynamic-element>
-	<dynamic-element dataType="string" indexType="" localizable="true" multiple="false" name="effect" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
+	<dynamic-element dataType="string" indexType="" multiple="false" name="effect" readOnly="false" repeatable="false" required="false" showLabel="true" type="select" width="">
 		<dynamic-element name="option7886" type="option" value="mouseover">
 			<meta-data locale="en_US">
 				<entry name="label">
@@ -83,8 +83,8 @@
 			</entry>
 		</meta-data>
 	</dynamic-element>
-	<dynamic-element dataType="string" indexType="" localizable="true" name="list-item" readOnly="false" repeatable="true" required="false" showLabel="true" type="text" width="small">
-		<dynamic-element dataType="string" indexType="" localizable="true" name="tagline" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
+	<dynamic-element dataType="string" indexType="" name="list-item" readOnly="false" repeatable="true" required="false" showLabel="true" type="text" width="small">
+		<dynamic-element dataType="string" indexType="" name="tagline" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="small">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Item Tagline]]>
@@ -97,7 +97,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="" localizable="true" name="paragraph" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="large">
+		<dynamic-element dataType="string" indexType="" name="paragraph" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="large">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Item paragraph]]>
@@ -110,7 +110,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="document-library" fieldNamespace="ddm" indexType="" localizable="true" name="image" readOnly="false" repeatable="false" required="true" showLabel="true" type="ddm-documentlibrary" width="">
+		<dynamic-element dataType="document-library" fieldNamespace="ddm" indexType="" name="image" readOnly="false" repeatable="false" required="true" showLabel="true" type="ddm-documentlibrary" width="">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Item Image]]>
@@ -123,7 +123,7 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="string" indexType="" localizable="true" name="url-location" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="large">
+		<dynamic-element dataType="string" indexType="" name="url-location" readOnly="false" repeatable="false" required="false" showLabel="true" type="text" width="large">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Item Url]]>
