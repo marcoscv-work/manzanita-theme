@@ -28,6 +28,7 @@
 			#if ($item.url-location.data != "")
 				<a href="$item.url-location.data">
 			#end
+					<img src="$item.image.data" alt="$item.data" class="full" />
 					<span class="list-text">
 						<span class="margins">
 							#if ($item.data != "")
