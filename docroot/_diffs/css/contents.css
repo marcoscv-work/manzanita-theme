@@ -21,7 +21,7 @@
 				width: 80%;
 
 				h1, h2, p, a {
-					@include transition(all 0.2s ease-in-out);
+					@include transition(all 0.2s ease);
 					@include translate3d(0, 0, 0, 0);
 
 					margin-top: -10px;
@@ -39,22 +39,22 @@
 
 		.carousel-item.carousel-item-active .carousel-text {
 			h1, h2, p, a {
-				@include transition-delay(0.4s);
+				@include transition-delay(0.5s);
 
 				margin-top: 0;
 				opacity: 1;
 			}
 
 			h2 {
-				@include transition-delay(0.6s);
-			}
-
-			p {
 				@include transition-delay(0.7s);
 			}
 
-			a {
+			p {
 				@include transition-delay(0.8s);
+			}
+
+			a {
+				@include transition-delay(1s);
 			}
 		}
 	}
@@ -91,7 +91,7 @@
 		.list-text {
 			@include rotate(-90deg);
 			@include transform-origin(100%);
-			@include transition(all 0.4s ease-in-out);
+			@include transition(all 0.4s ease);
 
 			background: rgba(0, 0, 0, 0.5);
 			bottom: -100%;
