@@ -110,7 +110,20 @@
 				</entry>
 			</meta-data>
 		</dynamic-element>
-		<dynamic-element dataType="document-library" fieldNamespace="ddm" indexType="" name="image" readOnly="false" repeatable="false" required="true" showLabel="true" type="ddm-documentlibrary" width="">
+		<dynamic-element dataType="html" fieldNamespace="ddm" indexType="keyword" name="fullContent" readOnly="false" repeatable="false" required="false" showLabel="true" type="ddm-text-html" width="small">
+			<meta-data locale="en_US">
+				<entry name="label">
+					<![CDATA[Full content]]>
+				</entry>
+				<entry name="predefinedValue">
+					<![CDATA[]]>
+				</entry>
+				<entry name="tip">
+					<![CDATA[]]>
+				</entry>
+			</meta-data>
+		</dynamic-element>
+		<dynamic-element dataType="document-library" fieldNamespace="ddm" indexType="" name="image" readOnly="false" repeatable="false" required="true" showLabel="true" type="ddm-documentlibrary">
 			<meta-data locale="en_US">
 				<entry name="label">
 					<![CDATA[Item Image]]>
