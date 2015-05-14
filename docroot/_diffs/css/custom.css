@@ -28,6 +28,14 @@ $mainNavbarHeight: 46px;
 				top: -$mainNavbarHeight;
 			}
 		}
+
+		&.yui3-skin-sam .yui3-widget-mask {
+			opacity: .4;
+		}
+
+		&.macModal {
+			overflow: hidden;
+		}
 	}
 
 	a {
@@ -41,6 +49,63 @@ $mainNavbarHeight: 46px;
 
 	form {
 		margin: 0;
+	}
+
+	#macModal {
+		border-radius: 0;
+		height: 100%;
+		display: block !important;
+		left: inherit !important;
+		overflow: auto;
+		right: -50% !important;
+		top: 0 !important;
+		width: 50%;
+		background: #555;
+		color: #FFF;
+		@include transform(rotate(-20deg));
+
+		&.animOn {
+			right: 0 !important;
+
+			@include transition(all 0.2s ease);
+			@include transform(rotate(0));
+			@include translate3d(0, 0, 0, 0);
+		}
+
+		.hide {
+			display: block !important;
+			margin: 15px 0;
+
+			.row-fluid {
+				margin: 25px 0;
+			}
+		}
+
+		.modal-header {
+			border-bottom: 1px solid #666;
+			padding: 10px 25px;
+
+			.close {
+				color: #FFF;
+				font-size: 45px;
+				line-height: 40px;
+				opacity: 1;
+				width: 30px;
+			}
+		}
+
+		.modal-body {
+			padding: 25px;
+			max-height: inherit;
+
+			img.full {
+				width: 100%;
+			}
+
+			h1 {
+				display: none;
+			}
+		}
 	}
 
 	#wrapper {
@@ -323,6 +388,9 @@ $mainNavbarHeight: 46px;
 			.portlet-dockbar {
 				display: block;
 			}
+		}
+		#macModal {
+			width: 100%;
 		}
 
 		#banner {
