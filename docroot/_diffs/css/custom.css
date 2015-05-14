@@ -51,8 +51,7 @@ $mainNavbarHeight: 46px;
 	}
 
 	#banner {
-		background: #555;
-		background: rgba(0, 0, 0, 0.6);
+		background: #666;
 		height: $mainNavbarHeight;
 		z-index: 9;
 
