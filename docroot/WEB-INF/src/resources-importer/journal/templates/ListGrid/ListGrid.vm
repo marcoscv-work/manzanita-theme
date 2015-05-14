@@ -48,12 +48,57 @@
 									$item.paragraph.data
 								</p>
 							#end
+							#if ($item.fullContent.data != "")
+								<div class="hide">
+									$item.fullContent.data
+								</div>
+							#end
 			  			</span>
 			  		</span>
-					<img src="$item.image.data" alt="$item.data" />
 			#if ($item.url-location.data != "")
 				</a>
 			#end
 	  	</div>
 	#end
 </div>
+
+
+<script type="text/javascript">
+AUI().ready(
+	'aui-modal',
+	function(Y) {
+		Y.all('#$content_id a').on(
+		'click',
+			function(e) {
+				e.preventDefault();
+				var node = e.currentTarget;
+				var title = '<h1>'+node.one('h1').getHTML()+'</h1>';
+				var modal = new Y.Modal(
+				{
+					bodyContent: node.getHTML(),
+					centered: true,
+					draggable: false,
+					resizable: false,
+					destroyOnHide: true,
+					headerContent: title,
+					modal: true,
+					render: '#modal',
+					zIndex: 500,
+					visible: true,
+					id: 'macModal',
+					on: {
+						destroy: function(event) {
+							Y.one('body').removeClass('macModal');
+						}
+					}
+				}).render();
+
+				modal.on('render', function(event) {
+					Y.one('body').addClass('macModal');
+					modal.get('boundingBox').addClass('animOn');
+				});
+			}
+		);
+	}
+);
+</script>
