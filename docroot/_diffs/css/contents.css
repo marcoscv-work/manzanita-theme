@@ -68,19 +68,23 @@
 		position: relative;
 		width: 25%;
 
-		h1, h2 {
+		h1, h2, p {
 			-ms-text-overflow: ellipsis;
 			-o-text-overflow: ellipsis;
 			display: inline-block;
 			font-size: 20px;
 			line-height: 1.2;
 			margin: 0 0 3px;
-			max-width: 95%;
+			max-width: 98%;
 			overflow: hidden;
 			text-overflow: ellipsis;
 			vertical-align: top;
 			white-space: nowrap;
 			width: 100%;
+		}
+
+		p {
+			font-size: 100%;
 		}
 
 		img {
