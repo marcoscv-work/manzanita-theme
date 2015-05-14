@@ -1,73 +1,85 @@
 <?xml version="1.0"?>
 
 <root available-locales="en_US" default-locale="en_US">
-	<dynamic-element instance-id="jZzO9a8O" name="items-per-file" type="list" index-type="">
+	<dynamic-element instance-id="j1zO9a8O" name="items-per-file" type="list" index-type="">
 		<dynamic-content><![CDATA[2]]></dynamic-content>
 	</dynamic-element>
 
-	<dynamic-element instance-id="jZzO9a88" name="effect" type="list" index-type="">
+	<dynamic-element instance-id="j1zO9a88" name="effect" type="list" index-type="">
 		<dynamic-content><![CDATA[none]]></dynamic-content>
 	</dynamic-element>
 
-	<dynamic-element instance-id="jZzn3lcL" name="list-item" type="text" index-type="">
-		<dynamic-element instance-id="jZzKZiO2" name="tagline" type="text" index-type="">
+	<dynamic-element instance-id="j1zn3lcL" name="list-item" type="text" index-type="">
+		<dynamic-element instance-id="j1zKZiO2" name="tagline" type="text" index-type="">
 			<dynamic-content><![CDATA[Fugiat harum nulla voluptatem]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jZzsweoF" name="paragraph" type="text" index-type="">
+		<dynamic-element instance-id="j1zsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Id expedita explicabo dignissimos ut delectus reiciendis exce]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jZzhI0fa" name="image" type="document_library" index-type="">
+		<dynamic-element instance-id="zZzswe12" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=slide_01.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=slide_03.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="j1zhI0fO" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=slide_02.jpg$]]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jZzRiz5o" name="url-location" type="link_to_layout" index-type="">
+		<dynamic-element instance-id="j1zRid5o" name="url-location" type="link_to_layout" index-type="">
 			<dynamic-content><![CDATA[#content]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-content><![CDATA[Salmentor]]></dynamic-content>
 	</dynamic-element>
 
-	<dynamic-element instance-id="jCcn3lcL" name="list-item" type="text" index-type="">
-		<dynamic-element instance-id="jCcKZiO2" name="tagline" type="text" index-type="">
+	<dynamic-element instance-id="j2cn333L" name="list-item" type="text" index-type="">
+		<dynamic-element instance-id="j2cKZiO2" name="tagline" type="text" index-type="">
 			<dynamic-content><![CDATA[Nulla voluptatem fugiat harum]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jCcsweoF" name="paragraph" type="text" index-type="">
+		<dynamic-element instance-id="j2csweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Ut delectus reiciendis exce id expedita explicabo dignissimos]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jCchI0fa" name="image" type="document_library" index-type="">
+		<dynamic-element instance-id="z89swePH" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=slide_01.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=slide_02.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="j2chI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=slide_03.jpg$]]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jCcRiz5o" name="url-location" type="link_to_layout" index-type="">
+		<dynamic-element instance-id="j2cRiz5o" name="url-location" type="link_to_layout" index-type="">
 			<dynamic-content><![CDATA[#content]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-content><![CDATA[Pskaitofrit]]></dynamic-content>
 	</dynamic-element>
 
-	<dynamic-element instance-id="jVvn3lcL" name="list-item" type="text" index-type="">
-		<dynamic-element instance-id="jVvKZiO2" name="tagline" type="text" index-type="">
+	<dynamic-element instance-id="j7vn3lcL" name="list-item" type="text" index-type="">
+		<dynamic-element instance-id="j7vKZiO2" name="tagline" type="text" index-type="">
 			<dynamic-content><![CDATA[Fugiat harum nulla voluptatem]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jVvsweoF" name="paragraph" type="text" index-type="">
+		<dynamic-element instance-id="j7vsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Id expedita explicabo dignissimos ut delectus reiciendis exce]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jVvhI0fa" name="image" type="document_library" index-type="">
+		<dynamic-element instance-id="z67swePH" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=slide_03.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=slide_01.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="j7vhI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=slide_04.jpg$]]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jVvRiz5o" name="url-location" type="link_to_layout" index-type="">
+		<dynamic-element instance-id="j7vRiz5o" name="url-location" type="link_to_layout" index-type="">
 			<dynamic-content><![CDATA[#content]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-content><![CDATA[Consequatur]]></dynamic-content>
 	</dynamic-element>
 
-	<dynamic-element instance-id="jBbn3lcL" name="list-item" type="text" index-type="">
-		<dynamic-element instance-id="jBbKZiO2" name="tagline" type="text" index-type="">
+	<dynamic-element instance-id="j8bn3lcL" name="list-item" type="text" index-type="">
+		<dynamic-element instance-id="j8bKZiO2" name="tagline" type="text" index-type="">
 			<dynamic-content><![CDATA[Nulla voluptatem fugiat harum]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jBbsweoF" name="paragraph" type="text" index-type="">
+		<dynamic-element instance-id="j8bsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Explicabo expedita reiciendis exce dignissimos ut delectus]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jBbhI0fa" name="image" type="document_library" index-type="">
+		<dynamic-element instance-id="zZzswePK" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=slide_03.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=slide_04.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="j8bhI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=slide_01.jpg$]]]></dynamic-content>
 		</dynamic-element>
-		<dynamic-element instance-id="jBbRiz5o" name="url-location" type="link_to_layout" index-type="">
+		<dynamic-element instance-id="j8bRiz5o" name="url-location" type="link_to_layout" index-type="">
 			<dynamic-content><![CDATA[#content]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-content><![CDATA[Macross]]></dynamic-content>

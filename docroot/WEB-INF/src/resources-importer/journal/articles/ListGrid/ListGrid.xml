@@ -16,6 +16,9 @@
 		<dynamic-element instance-id="zZzsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Id expedita explicabo dignissimos ut delectus reiciendis exce]]></dynamic-content>
 		</dynamic-element>
+		<dynamic-element instance-id="zZzswePF" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=300x200_02.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=300x200_03.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
 		<dynamic-element instance-id="zZzhI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=300x200_01.jpg$]]]></dynamic-content>
 		</dynamic-element>
@@ -31,6 +34,9 @@
 		</dynamic-element>
 		<dynamic-element instance-id="cCcsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Ut delectus reiciendis exce id expedita explicabo dignissimos]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="zZzsweAF" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=300x200_03.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=300x200_04.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-element instance-id="cCchI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=300x200_02.jpg$]]]></dynamic-content>
@@ -48,6 +54,9 @@
 		<dynamic-element instance-id="vVvsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Id expedita explicabo dignissimos ut delectus reiciendis exce]]></dynamic-content>
 		</dynamic-element>
+		<dynamic-element instance-id="zZzsweSF" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=300x200_04.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=300x200_05.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
 		<dynamic-element instance-id="vVvhI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=300x200_03.jpg$]]]></dynamic-content>
 		</dynamic-element>
@@ -63,6 +72,9 @@
 		</dynamic-element>
 		<dynamic-element instance-id="bBbsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Explicabo expedita reiciendis exce dignissimos ut delectus]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="zZzsweDF" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=300x200_05.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=300x200_06.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-element instance-id="bBbhI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=300x200_04.jpg$]]]></dynamic-content>
@@ -80,6 +92,9 @@
 		<dynamic-element instance-id="zXzsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Id expedita explicabo dignissimos ut delectus reiciendis exce]]></dynamic-content>
 		</dynamic-element>
+		<dynamic-element instance-id="zZzsweFF" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><div class="span6"><img src="[$FILE=300x200_06.jpg$]" alt="" class="full"></div><div class="span6"><img src="[$FILE=300x200_01.jpg$]" alt="" class="full"></div></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
+		</dynamic-element>
 		<dynamic-element instance-id="zXzhI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=300x200_05.jpg$]]]></dynamic-content>
 		</dynamic-element>
@@ -95,6 +110,9 @@
 		</dynamic-element>
 		<dynamic-element instance-id="cVcsweoF" name="paragraph" type="text" index-type="">
 			<dynamic-content><![CDATA[Id expedita explicabo dignissimos ut delectus reiciendis exce]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element instance-id="zZzsweGF" name="fullContent" type="ddm-text-html" index-type="">
+			<dynamic-content><![CDATA[<p>Curabitur varius, nisi tempor feugiat laoreet, arcu libero dictum nunc, quis rutrum tellus ligula id augue. Aliquam eget ultricies justo, nec fringilla felis. Phasellus efficitur placerat elit, in consectetur mi. Donec quis urna malesuada</p><div class="row-fluid"><img src="[$FILE=300x200_03.jpg$]" alt="" class="full"></div><p>Suspendisse venenatis cursus commodo. Donec fringilla sed tortor et gravida. Vivamus vestibulum est vel tortor imperdiet vestibulum mattis vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pharetra imperdiet orci sit amet dignissim.</p><p>Cras vel augue rhoncus, porta metus id, ultricies sapien. Quisque at enim sapien. Etiam accumsan leo vitae lacinia facilisis. Phasellus nisi diam, sollicitudin nec cursus et, congue in nunc. Nullam massa nunc, lobortis non consequat eu.</p>]]></dynamic-content>
 		</dynamic-element>
 		<dynamic-element instance-id="cVchI0fa" name="image" type="document_library" index-type="">
 			<dynamic-content><![CDATA[[$FILE=300x200_06.jpg$]]]></dynamic-content>
