@@ -167,6 +167,13 @@
 										<td style="background:#0288D1;color:#F3F3F3">Sea</td>
 										<td style="background:#03A9F4;color:#EEEEEE">Sea</td>
 									</tr>
+									<tr style="height:50px; cursor:pointer;" class="palette" pallete="#009688/#FFFFFF/#80CBC4/#434343/SeaGreen" id="SeaGreen">
+										<td>
+											<div class="img-circle checkerNode" style="height:35px;width:35px;border: 3px solid #CCC"></div>
+										</td>
+										<td style="background:#009688;color:#FFFFFF">SeaGreen</td>
+										<td style="background:#80CBC4;color:#434343">SeaGreen</td>
+									</tr>
 									<tr style="cursor:pointer;" class="palette" pallete="#AFB42B/#000000/#CDDC39/#555555/Forest" id="Forest">
 										<td>
 											<div class="img-circle checkerNode" style="height:35px;width:35px;border: 3px solid #CCC"></div>
@@ -215,6 +222,13 @@
 										</td>
 										<td style="background:#F0F4C3;color:#333333">Gold</td>
 										<td style="background:#CDDC39;color:#555555">Gold</td>
+									</tr>
+									<tr style="height:50px; cursor:pointer;" class="palette" pallete="#9E9E9E/#FFFFFF/#E0E0E0/#000000/Gray" id="Gray">
+										<td>
+											<div class="img-circle checkerNode" style="height:35px;width:35px;border: 3px solid #CCC"></div>
+										</td>
+										<td style="background:#9E9E9E;color:#FFFFFF">Gray</td>
+										<td style="background:#E0E0E0;color:#000000">Gray</td>
 									</tr>
 									<tr style="height: 50px;">
 										<td colspan="3"><span class="btn btn-block palette" pallete="/////">Reset to default theme palette</span></td>
